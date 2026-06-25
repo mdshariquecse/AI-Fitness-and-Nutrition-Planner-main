@@ -8,7 +8,7 @@
 [![API](https://img.shields.io/badge/API-Spoonacular-green?style=flat-square)](https://spoonacular.com/food-api)
 
 
-**[🚀 Live Demo](https://ai-fitness-and-nutrition-planner-main-mfwt6y3ksjzbmfhkbmdhhv.streamlit.app/)** • **[Report Issue](https://github.com/SabarishR08/AI-Fitness-and-Nutrition-Planner/issues)**
+**[🚀 Live Demo](https://ai-fitness-and-nutrition-planner-main-y7uyw6i8svqjnvoyywm6qe.streamlit.app/)** • **[Report Issue](https://github.com/SabarishR08/AI-Fitness-and-Nutrition-Planner/issues)**
 
 ---
 
