@@ -62,10 +62,3 @@ This AI-powered planner uses Google Gemini and Spoonacular to tailor workouts, r
 └── data/
     └── user_logs.json        # User progress data
 ```
-
-
-**Sabarish R** — Full-Stack AI Developer
-
-- LinkedIn: [Sabarish R](https://www.linkedin.com/in/sabarishr08/)
-
----
