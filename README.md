@@ -1,1 +1,1 @@
-# AI-Fitness-and-Nutrition-Planner-main
+# AI-Fitness-and-Nutrition-Planner
